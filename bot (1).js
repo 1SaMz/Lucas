@@ -353,4 +353,4 @@ client.user.setGame(`Lplay | Lplay , لوكااس`,"http://twitch.tv/DeathLucas"
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NTA4NjAyMzcxMzE2Nzc2OTYw.DsBovA.rKg7oIkTAMY0oqRS86fJpSJCGuw);
