@@ -349,8 +349,8 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Lplay | Lplay , لوكااس`,"http://twitch.tv/DeathLucas")
+client.user.setGame(`1play | Last Music`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.NTA4NjAyMzcxMzE2Nzc2OTYw.DsBovA.rKg7oIkTAMY0oqRS86fJpSJCGuw);
+client.login(process.env.BOT_TOKEN);
